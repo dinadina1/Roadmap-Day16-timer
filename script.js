@@ -1,3 +1,10 @@
+// Create new div element
+let div = document.createElement("div");
+div.innerHTML = `<h1 id="header"></h1>`
+
+document.body.append(div);
+
+
 // Set Timer Function
 
 let callback = ()=>{
