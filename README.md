@@ -6,10 +6,10 @@
 <p>I attached the Webpage link and screenshots below:</p>
 
 <h2>Website Link</h2>
-<br>
+https://callback-timer.netlify.app/
 
 <h2>Webpage Screenshots</h2>
-<img src="./images/Screenshot1.png" alt="Screenshot1">
-<img src="./images/Screenshot2.png" alt="Screenshot2">
+<img src="./images/screenshot1.png" alt="Screenshot1">
+<img src="./images/screenshot2.png" alt="Screenshot2">
 
 
